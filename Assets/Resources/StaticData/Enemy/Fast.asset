@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b99b31146a04cb684f95b53d88d9a7d, type: 3}
+  m_Name: Fast
+  m_EditorClassIdentifier: 
+  _enemyTypeID: 1
+  _speed: 4
+  _attackCoolDown: 2
+  _distanceBeforeAttack: 1.5
+  _damage: 1
+  _destroyTime: 3
+  _prefab: {fileID: 7556428812467635215, guid: 9837f8fcc23363b4fafe01d5b26a9d87, type: 3}
